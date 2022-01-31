@@ -19,3 +19,5 @@ freeglut.lib
 
 
 **Environment**:
+
+PATH=%PATH%;$(ProjectDir)bin
